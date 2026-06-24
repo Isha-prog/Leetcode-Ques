@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
