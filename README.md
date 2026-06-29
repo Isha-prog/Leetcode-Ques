@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0607-sales-person) |
 | [1068-product-sales-analysis-i](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1757-recyclable-and-low-fat-products) |
 ## Two Pointers
 |  |
