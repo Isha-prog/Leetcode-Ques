@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Isha-prog/Leetcode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
