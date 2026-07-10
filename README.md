@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Database
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
