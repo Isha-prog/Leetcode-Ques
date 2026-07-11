@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1667-fix-names-in-a-table](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Isha-prog/Leetcode-Ques/tree/master/1757-recyclable-and-low-fat-products) |
