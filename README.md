@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0520-detect-capital) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Isha-prog/Leetcode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Isha-prog/Leetcode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
