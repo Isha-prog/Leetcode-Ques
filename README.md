@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0896-monotonic-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0896-monotonic-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Isha-prog/Leetcode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Isha-prog/Leetcode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
