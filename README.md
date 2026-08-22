@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0796-rotate-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
