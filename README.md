@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0796-rotate-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Isha-prog/Leetcode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
