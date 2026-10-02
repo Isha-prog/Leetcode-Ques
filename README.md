@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
