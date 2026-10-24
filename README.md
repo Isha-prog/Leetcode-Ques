@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0344-reverse-string) |
+| [0845-longest-mountain-in-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0845-longest-mountain-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Isha-prog/Leetcode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0845-longest-mountain-in-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0845-longest-mountain-in-array) |
 | [0896-monotonic-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0896-monotonic-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Isha-prog/Leetcode-Ques/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Isha-prog/Leetcode-Ques/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0845-longest-mountain-in-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0845-longest-mountain-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Isha-prog/Leetcode-Ques/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
